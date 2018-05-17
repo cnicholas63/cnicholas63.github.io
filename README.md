@@ -1,5 +1,3 @@
-## Chris Nicholas
-
 Currently employed as a Research Assistant
 I have been working on a project called Adaptive User Interfaces that is studying behavior when users are using an eye tracker for text entry. As part of my role I have hadresponsibility for the deveopment of an eye tracker controlled keyboard. I have developed this using C# and the Tobii API. Whilst I am allowed to provide an overview of the project, I am not allowed to share the code.
 Along with the keyboard which records a lot of information when running experiments, I have been using R (which was new to me) to develop functionality for the analysis and presentation of the data. This project has been a lot of fun and very informative.
