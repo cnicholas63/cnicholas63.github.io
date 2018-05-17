@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Chris Nicholas
 
-You can use the [editor on GitHub](https://github.com/cnicholas63/cnicholas63.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently employed as a Research Assistant
+I have been working on a project called Adaptive User Interfaces that is studying behavior when users are using an eye tracker for text entry. As part of my role I have hadresponsibility for the deveopment of an eye tracker controlled keyboard. I have developed this using C# and the Tobii API. Whilst I am allowed to provide an overview of the project, I am not allowed to share the code.
+Along with the keyboard which records a lot of information when running experiments, I have been using R (which was new to me) to develop functionality for the analysis and presentation of the data. This project has been a lot of fun and very informative.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Previous to my current role, I spent four years studying for a Master's degree in Software Application Development. This page introduces and provides links to my GitHub repos for some of the projects I have worked on during this time.
 
-### Markdown
+## Field Crop Analysis, Master's
+An asset produced towards my Masters. Developed in Java and utilising a neural network for image classification. [Details](https://github.com/cnicholas63/FieldCropAnalysis)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## NYAS, Android app
+A prototype Android app developed as coursework. 
+[Details](https://github.com/cnicholas63/NYAS_Final)
 
-```markdown
-Syntax highlighted code block
+## MediCare, Android app
+A simple Android app developed as coursework.
+[Details](https://github.com/cnicholas63/MyMediCare)
 
-# Header 1
-## Header 2
-### Header 3
+## Game of Nim, Distributed Java
+Developed as part of the Distributed Systems module.
+[Details](https://github.com/cnicholas63/GameOfNim)
 
-- Bulleted
-- List
+## Linked Lists, C# 
+Linked List project, with single and double linked list versions.
+[Details](https://github.com/cnicholas63/Linked-Lists)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cnicholas63/cnicholas63.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
