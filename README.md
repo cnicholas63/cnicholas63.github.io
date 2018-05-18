@@ -4,7 +4,7 @@ Prior to my current role, I spent four years studying for a Master's degree in S
 
 ## Field Crop Analysis, Master's
 An asset produced towards my Masters. Developed in Java and utilising a neural network for image classification. 
-<img width="320" src="https://github.com/cnicholas63/FieldCropAnalysis/blob/master/ScreenShots/FieldNoSelection.png" alt="Field no selection">
+<img width="320" src="https://github.com/cnicholas63/FieldCropAnalysis/blob/master/ScreenShots/FieldNoSelection.png" alt="Field crop analysis">
 [Details](https://github.com/cnicholas63/FieldCropAnalysis)
 
 ## NYAS, Android app
