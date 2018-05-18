@@ -3,9 +3,9 @@ Recently, I've been working on a project called Adaptive User Interfaces, studyi
 Prior to my current role, I spent four years studying for a Master's degree in Software Application Development. This page introduces and provides links to a few of my GitHub repos produced during this time.
 
 ## Field Crop Analysis, Master's
-<img width="320" src="https://github.com/cnicholas63/FieldCropAnalysis/blob/master/ScreenShots/FieldNoSelection.png" alt="Field crop analysis">
+<img width="320" src="https://github.com/cnicholas63/FieldCropAnalysis/blob/master/ScreenShots/ScreenShot.png" alt="Field crop analysis">
 
-An asset produced towards my Masters. Developed in Java and utilising a neural network for image classification. 
+An asset produced towards my Masters. Developed in Java and utilising a neural network for crop region classification. 
 [Details](https://github.com/cnicholas63/FieldCropAnalysis)
 
 ## NYAS, Android app
