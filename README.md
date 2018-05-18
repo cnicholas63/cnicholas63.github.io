@@ -16,14 +16,14 @@ An asset produced towards my Masters. Developed in Java and utilising a neural n
 ## NYAS, Android app
 <img height="200" src="Screenshots/NYAS.png" alt="Field crop analysis">
 
-A prototype Android app developed as coursework. 
+Android app developed as coursework. 
 [Details](https://github.com/cnicholas63/NYAS_Final)
 
 
 ## MediCare, Android app
 <img height="200" src="Screenshots/MyMediCare.png" alt="Field crop analysis">
 
-A simple Android app developed as coursework.
+Android app developed as coursework.
 [Details](https://github.com/cnicholas63/MyMediCare)
 
 ## Game of Nim, Distributed Java
