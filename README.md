@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Current work
-Working on a project called Adaptive User Interfaces, studying behavior when users are engaged with an eye tracker for text entry. As part of my role I was responsible for the deveopment of an eye tracker controlled keyboard, developed using C#, Visual Studio and the Tobii API. Unfortunately, I am not allowed to share the code. Along with the keyboard - which records a lot of data when running experiments - I've been using R and RStudio to develop functionality for the analysis and presentation of the data. This project has been a lot of fun and very informative.
+Working on a project called Adaptive User Interfaces, studying behavior when users are engaged with an eye tracker for text entry. Responsible for the deveopment of an eye tracker controlled keyboard, developed using C#, Visual Studio and the Tobii API. Unfortunately, I am not allowed to share the code. Along with the keyboard - which caotures a lot of data when running experiments - I've been using R and RStudio to develop functionality for the analysis and presentation of data captured via keyboard. This project has been a lot of fun and very informative.
 
 Prior to my current role, I spent four years studying for a Master's degree in Software Application Development. This page introduces and provides links to a few of my GitHub repos produced during this time.
 
