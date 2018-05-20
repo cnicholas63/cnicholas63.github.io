@@ -26,10 +26,3 @@ Android app developed as coursework.
 Android app developed as coursework.
 [Details](https://github.com/cnicholas63/MyMediCare)
 
-## Game of Nim, Distributed Java
-Developed as part of the Distributed Systems module.
-[Details](https://github.com/cnicholas63/GameOfNim)
-
-## Linked Lists, C# 
-Linked List project, with single and double linked list versions.
-[Details](https://github.com/cnicholas63/Linked-Lists)
