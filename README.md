@@ -23,6 +23,7 @@ Android app developed as coursework.
 
 ## AVON Web App
 This project is a work in progress is being developed as a means of developing my skills. It provides a reponsive website that allows the management and tracking of customers, products and orders.
+[Details](https://github.com/cnicholas63/WebProjectAVON)
 
 The site utilises a range of technologies including:
 * HTML
@@ -36,6 +37,7 @@ The site utilises a range of technologies including:
 <img height="200" src="Screenshots/EdgeHillWebPage.png" alt="Edge Hill Web Page">
 
 Prototype website developed toward Web Development module.
+[Details](https://github.com/cnicholas63/WebProject)
 
 The prototype is a responsive multipage design that utilises:
 * HTML
