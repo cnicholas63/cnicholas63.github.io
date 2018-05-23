@@ -22,7 +22,7 @@ Android app developed as coursework.
 [Details](https://github.com/cnicholas63/NYAS_Final)
 
 ## AVON Web App
-This is personal project is a work in progress. It provides a reponsive website that allows the management and tracking of customers, products and orders.
+This project is a work in progress is being developed as a means of developing my skills. It provides a reponsive website that allows the management and tracking of customers, products and orders.
 
 The site utilises a range of technologies including:
 * HTML
