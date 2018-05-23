@@ -21,10 +21,33 @@ An asset produced towards my Masters. Developed in Java and utilising a neural n
 Android app developed as coursework. 
 [Details](https://github.com/cnicholas63/NYAS_Final)
 
+## AVON Web App
+This is personal project is a work in progress. It provides a reponsive website that allows the management and tracking of customers, products and orders.
+
+The site utilises a range of technologies including:
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Data persisted in MySQL database
+* Bootstrap
+
+## Edge Hill Prototype
+<img height="200" src="Screenshots/NYAS.png" alt="Field crop analysis">
+
+Prototype website developed toward Web Development module.
+
+The prototype is a responsive multipage design that utilises:
+* HTML
+* CSS
+* JavaScript
+* FancyBox a JQuery lightbox alternative: http://fancybox.net/
 
 ## MediCare, Android app
 <img height="200" src="Screenshots/MyMediCare.png" alt="Field crop analysis">
 
 Android app developed as coursework.
 [Details](https://github.com/cnicholas63/MyMediCare)
+
+
 
