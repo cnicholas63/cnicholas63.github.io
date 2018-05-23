@@ -33,7 +33,7 @@ The site utilises a range of technologies including:
 * Bootstrap
 
 ## Edge Hill Prototype
-<img height="200" src="Screenshots/EdgeHillwebPage.png" alt="Edge Hill Web Page">
+<img height="200" src="Screenshots/EdgeHillWebPage.png" alt="Edge Hill Web Page">
 
 Prototype website developed toward Web Development module.
 
