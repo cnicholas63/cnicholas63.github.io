@@ -21,7 +21,7 @@ An asset produced towards my Masters. Developed in Java and utilising a neural n
 Android app developed as coursework. 
 [Details](https://github.com/cnicholas63/NYAS_Final)
 
-## AVON Web App
+## Web Application
 A reponsive website that allows the management and tracking of customers, products and orders. This is a work in progress and is being developed as a means of learning new skills and embedding exising ones. 
 [Details](https://github.com/cnicholas63/WebProjectAVON)
 
